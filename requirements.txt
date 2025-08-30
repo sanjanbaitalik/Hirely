@@ -1,0 +1,11 @@
+crewai
+python-dotenv
+chromadb
+pandas
+mistralai
+langchain-mistralai
+langchain-community
+googlesearch-python
+sentence-transformers
+requests
+beautifulsoup4
