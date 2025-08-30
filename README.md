@@ -1,1 +1,1 @@
-# agentic_hr
+# Hirely
